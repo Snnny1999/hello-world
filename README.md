@@ -1,6 +1,8 @@
 # hello-world
-Just another repository 另一个存储库
+Just another repository
 
 Hi Humans!
 
 I Like Blue 
+
+Because I love you
